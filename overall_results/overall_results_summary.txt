@@ -1,0 +1,11 @@
+Bart Results
+Average Bleu score: 0.0624
+Average Rouge score: 0.3108
+
+Gemini Results
+Average Bleu score: 0.1086
+Average Rouge score: 0.4006
+
+Mistral Results
+Average Bleu score: 0.1530
+Average Rouge score: 0.4983
